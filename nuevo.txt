@@ -1,3 +1,7 @@
 Archivo nuevo
 Segunda linea
+<<<<<<< HEAD
 Tercera linea
+=======
+Miguel hizo un cambio
+>>>>>>> 21555ddafbe0f8b12dbb970f0fd9b5b1604749b5
