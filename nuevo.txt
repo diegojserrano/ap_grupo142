@@ -4,4 +4,9 @@ Segunda linea
 Tercera linea
 =======
 Miguel hizo un cambio
+<<<<<<< HEAD
 >>>>>>> 21555ddafbe0f8b12dbb970f0fd9b5b1604749b5
+=======
+Probando :)
+Prueba
+>>>>>>> 1f831947cd84e1ccbb8648a201366b2a8614af5f
